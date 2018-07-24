@@ -4,4 +4,4 @@ Repositório dos dados a serem utilizados na Liga de PP. Os links no markdown se
 
 Recomenda-se a todos os membros a familiarização com pelo menos alguma linguagem de programação adequada à manipulação de dados, como R ou Python.
 
-*Atenção*: pendência de atualização do reposiitório para um banco em SQL ou outra linguagem própria para bancos.
+*Atenção*: pendência de atualização do repositório para um banco em SQL ou outra linguagem própria para bancos.
